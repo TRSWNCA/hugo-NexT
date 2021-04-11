@@ -1,0 +1,31 @@
+{
+  "name": "hugo-NexT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRSWNCA/hugo-NexT.git"
+  },
+  "keywords": [],
+  "author": "trswnca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRSWNCA/hugo-NexT/issues"
+  },
+  "homepage": "https://github.com/TRSWNCA/hugo-NexT#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
